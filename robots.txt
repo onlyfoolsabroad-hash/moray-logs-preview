@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onlyfoolsabroad-hash.github.io/moray-logs-preview/sitemap.xml
